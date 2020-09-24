@@ -1,0 +1,11 @@
+p {
+  font-size: 15px;
+  padding-bottom: 15px;
+  font-weight: bold;
+}
+
+#colunas {
+  -webkit-column-count: 2;
+  -webkit-column-gap: 40px;
+  -webkit-column-span: all;
+}
